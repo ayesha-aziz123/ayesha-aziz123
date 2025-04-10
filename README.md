@@ -13,7 +13,7 @@
 - 👩‍💻 Tools I use daily: `Next.js`, `Tailwind CSS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`, `Python`, `Streamlit`
 - 💬 Ask me about **Sanity CMS**, **Clerk Auth**, **Stripe Integration**, or anything frontend!
 - 👨‍💻 All of my projects are available at https://ayesha-nextjs-web-portfolio.vercel.app/
-- ⚡ Fun fact: I teach my 10-year-old nephew how to build websites!
+
 
 ---
 
