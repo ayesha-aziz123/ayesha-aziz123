@@ -52,9 +52,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-aziz123&show_icons=true&theme=radical" width="49%" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayesha-aziz123&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-aziz123&show_icons=true&theme=radical" width="48%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=ayesha-aziz123&theme=radical" width="48%" /> -->
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-aziz123&layout=compact&theme=radical" width="35%" />
+</p>
+
 
 
 ---
@@ -75,4 +80,5 @@
 
 ---
 
-**Thanks for visiting let’s innovate and build something meaningful together 🚀**
+
+### <h2 align="center"> *Thanks for visiting let’s innovate and build something meaningful together 🚀* ✨</h2>
