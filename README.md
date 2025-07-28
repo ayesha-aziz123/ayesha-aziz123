@@ -42,7 +42,7 @@
 
 ## 🔥 Currently Exploring
 
-- 🤖 Building **AI Agents** with Open Source SDKs
+- 🤖 Building **AI Agents** with OpenAI Agents SDKs
 - ⚙️ Creating **REST APIs** with Node.js & MongoDB
 - 💬 Integrating secure **auth & payments** (Clerk + Stripe)
 - 🎯 Designing clean & fast UIs for real-world use cases
