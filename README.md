@@ -54,7 +54,7 @@ Open to collaborations on Agentic AI, full-stack products, and anything that sol
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-aziz-574780310/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayesha-aziz123)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ayesha-nextjs-web-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![Twitter / X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ayesha_Aziz43)
 
 ---
@@ -137,37 +137,6 @@ Open to collaborations on Agentic AI, full-stack products, and anything that sol
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🛍️ E-Commerce Full-Stack App
-
-**Tech Stack:** `Next.js 14` `TypeScript` `Sanity CMS` `Clerk` `Stripe` `Tailwind CSS`
-
-Production-grade e-commerce platform with authentication, live payments, and a headless CMS — deployed on Vercel.
-
----
-
-### 🌐 Next.js Developer Portfolio
-
-**Tech Stack:** `Next.js` `Tailwind CSS` `TypeScript` `Vercel`
-
-A fast, responsive, and animated developer portfolio showcasing projects and skills.
-
-[🔗 Live Demo](https://ayesha-nextjs-web-portfolio.vercel.app)
-
----
-
-### 🤖 AI Agent App (In Progress)
-
-**Tech Stack:** `OpenAI Agents SDK` `OpenClaw` `Python` `FastAPI` `Streamlit`
-
-An agentic AI system with tool use, memory, and multi-step reasoning — built for real-world automation tasks.
-
-</div>
-
----
 
 ## 🔥 Currently Exploring
 
